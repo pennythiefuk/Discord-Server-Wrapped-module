@@ -55,3 +55,7 @@ Full step-by-step instructions, the optional sections, the video add-on (with ho
 - discord.js 14.19 or newer
 - `@napi-rs/canvas`
 - For the video add-on only: ffmpeg (and yt-dlp for song clips)
+
+## License
+
+[MIT](LICENSE) — free to use, change and share, including in your own bots. The bundled Montserrat font files keep their own [SIL Open Font License](server-wrapped/fonts/OFL.txt).
